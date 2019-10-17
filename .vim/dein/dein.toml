@@ -1,0 +1,33 @@
+[[plugins]]
+repo ='Shougo/dein.vim'
+#ディレクトリ表示
+[[plugins]]
+repo = 'Shougo/vimfiler'
+#"から""に自動補完
+[[plugins]]
+repo = 'Townk/vim-autoclose'
+# colorscheme
+[[plugins]]
+repo = "tomasr/molokai"
+#IDE っぽいディレクトリ表示
+[[plugins]]
+repo = "scrooloose/nerdtree"
+
+#入力補完系
+[[plugins]]
+repo = "Shougo/neocomplete.vim"
+[[plugins]]
+repo = "Shougo/neosnippet"
+[[plugins]]
+repo = "Shougo/neosnippet-snippets"
+
+[[plugins]]
+repo = "nathanaelkane/vim-indent-guides"
+
+[[plugins]]
+repo = 'cocopon/iceberg.vim'
+
+[[plugins]]
+repo = "tpope/vim-fugitive"
+[[plugins]]
+repo = "Shougo/unite.vim"
